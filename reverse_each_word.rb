@@ -24,5 +24,5 @@ def reverse_each_word(phrase)
   return string
 end
 
-test = reverse_each_word("Hi my name is Tom. I love to eat snacks!")
-puts "#{test}"
+#test = reverse_each_word("Hi my name is Tom. I love to eat snacks!")
+#puts "#{test}"
